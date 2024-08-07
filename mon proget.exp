@@ -106,7 +106,7 @@
              DISTRIBUTION  = ALERT_DISTRIBUTE_DEFAULT
              PRIORITY      = ALERT_PRIORITY_NORMAL
              NAME          = 
-             RECPT_END
+             
              RECPT_START
              TYPE          = ALERTS_SYSTEM
              ALERT         = SYS_ALERT_CHR_APPROVED
